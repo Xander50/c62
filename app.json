@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "uplifting-pretzel",
+    "slug": "snack-3f0be74d-fa57-4c14-9887-d6712c5dd820",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "alexander"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.a_s_j.snack3f0be74dfa574c149887d6712c5dd820"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
